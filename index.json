@@ -1,0 +1,11 @@
+{
+  "org": "executablebooks",
+  "repo": "sphinx-ext-autodoc",
+  "versions": [
+    {
+      "commit": "5f04a3b36aa8279932b1c4733b9f9f9f27f942df",
+      "tag": "",
+      "parsed_at": "2026-10-21T21:36:37.080108+00:00"
+    }
+  ]
+}
